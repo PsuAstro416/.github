@@ -12,4 +12,4 @@ This course is designed to increase students' data acumen and experience in how 
 [^1]:  Students with other programming experience (e.g., Astro 97) are encouraged to participate, but must submit a prerequisite override course in LionPATH to be allowed to register.
 
 ### Semesters Offered:
-- [Spring 2025](https://psuastro416.github.io/Spring2025/)
+- [Spring 2025](https://psuastro416.github.io/Spring2025/) ([github](https://github.com/PsuAstro416/Spring2025))
