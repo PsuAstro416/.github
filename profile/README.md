@@ -13,3 +13,14 @@ This course is designed to increase students' data acumen and experience in how 
 
 ### Semesters Offered:
 - [Spring 2025](https://psuastro416.github.io/Spring2025/) ([github](https://github.com/PsuAstro416/Spring2025))
+
+### Examples of Old Labs
+- [Lab 1](https://github.com/PsuAstro416/lab1)
+- [Lab 2](https://github.com/PsuAstro416/lab2)
+- [Lab 3](https://github.com/PsuAstro416/lab3)
+- [Lab 4](https://github.com/PsuAstro416/lab4)
+- [Lab 5](https://github.com/PsuAstro416/lab5)
+- [Lab 6](https://github.com/PsuAstro416/lab6)
+- [Lab 7](https://github.com/PsuAstro416/lab7)
+- [Lab 8](https://github.com/PsuAstro416/lab8)
+- [Lab 9](https://github.com/PsuAstro416/lab9)
