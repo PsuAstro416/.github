@@ -5,13 +5,14 @@ This course is designed to increase students' data acumen and experience in how 
 
 ### Prerequisites: 
 - ASTRO 291 or (ASTRO 401 and ASTRO 402W)
-- ASTRO 21 or CMPSC 121 or CMPSC 131 or CMPSC 201[^1]
+- ASTRO 21 or CMPSC 121 or CMPSC 131 or CMPSC 201[^1] 
 - MATH 230 or MATH 231
 - PHYS 211
 
 [^1]:  Students with other programming experience (e.g., Astro 97) are encouraged to participate, but must submit a prerequisite override course in LionPATH to be allowed to register.
 
 ### Semesters Offered:
+- [Spring 2027](https://psuastro416.github.io/Spring2027/) ([github](https://github.com/PsuAstro416/Spring2027)) <- in prep
 - [Spring 2025](https://psuastro416.github.io/Spring2025/) ([github](https://github.com/PsuAstro416/Spring2025))
 
 ### Examples of Old Labs
